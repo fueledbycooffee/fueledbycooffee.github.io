@@ -1,8 +1,8 @@
 ## Annyeonghaseyo from GitHub Pages!
 
-You can use the [editor on GitHub](https://github.com/fueledbycooffee/fueledbycooffee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the site little nugget! I hope you see improvement in my pictures. This is the I believe the first picture ever on my page. enjoy our weirdness. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/pl6od" ></script>
 
 ### Markdown
 

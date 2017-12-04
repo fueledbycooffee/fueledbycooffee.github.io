@@ -1,6 +1,6 @@
 ## Annyeonghaseyo from GitHub Pages!
 
-Welcome to the site little nugget!  :blush: I hope you see improvement in my pictures. This is the I believe the first picture ever on my page. Enjoy our weirdness. Bye  :wave: 
+Welcome to the site little nugget! I hope you see improvement in my pictures. This is the I believe the first picture ever on my page. Enjoy our weirdness. Bye!
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/pl6od" ></script>
 
